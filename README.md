@@ -18,4 +18,4 @@ An age calculator web application that calculates your exact age based on your d
 ## How to Use
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/emmanuelobinna62-dotcom/Age--Calculator
